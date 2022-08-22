@@ -1,0 +1,17 @@
+.idea
+*.dSYM
+*.o
+**/*.o
+*.out
+so
+tags
+cmake-build*
+CMakeCache.txt
+CMakeFiles
+*.cmake
+*.cbp
+data
+log
+Makefile
+bin
+
